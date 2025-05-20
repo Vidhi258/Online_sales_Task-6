@@ -27,7 +27,4 @@ Analyze monthly revenue and order volume using SQL queries with aggregation func
 ## 🖼️ Output
 Results of both queries have been included as a screenshot along with the SQL script in this repository.
 
-## ✅ Submission
-Submitted via the official Google Form.
 
----
